@@ -1,0 +1,10 @@
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\bin\Debug\BAL'S AUTOMOTIVE SHOP.exe.config
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\bin\Debug\BAL'S AUTOMOTIVE SHOP.exe
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\bin\Debug\BAL'S AUTOMOTIVE SHOP.pdb
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL'S AUTOMOTIVE SHOP.csproj.AssemblyReference.cache
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL_S_AUTOMOTIVE_SHOP.frmLOGIN.resources
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL_S_AUTOMOTIVE_SHOP.Properties.Resources.resources
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL'S AUTOMOTIVE SHOP.csproj.GenerateResource.cache
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL'S AUTOMOTIVE SHOP.csproj.CoreCompileInputs.cache
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL'S AUTOMOTIVE SHOP.exe
+C:\Users\christine joy\source\repos\BAL'S AUTOMOTIVE SHOP\BAL'S AUTOMOTIVE SHOP\obj\Debug\BAL'S AUTOMOTIVE SHOP.pdb
